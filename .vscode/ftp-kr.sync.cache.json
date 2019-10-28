@@ -1,0 +1,412 @@
+{
+  "ftp://ftp.britta.altervista.org:21@britta": {
+    "SITO_MIO": {
+      "css": {
+        "freelancer.css": {
+          "type": "-",
+          "size": 183041,
+          "lmtime": 1571729596646,
+          "modified": false
+        },
+        "freelancer.min.css": {
+          "type": "-",
+          "size": 147898,
+          "lmtime": 0,
+          "modified": false
+        }
+      },
+      "font": {
+        "basscrw-demo.html": {
+          "type": "-",
+          "size": 30669,
+          "lmtime": 1571668782000,
+          "modified": false
+        },
+        "basscrw-webfont.woff": {
+          "type": "-",
+          "size": 26220,
+          "lmtime": 1571668782000,
+          "modified": false
+        },
+        "basscrw-webfont.woff2": {
+          "type": "-",
+          "size": 78,
+          "lmtime": 1571668782000,
+          "modified": true
+        },
+        "specimen_files": {
+          "grid_12-825-55-15.css": {
+            "type": "-",
+            "size": 4597,
+            "lmtime": 1571668782000,
+            "modified": false
+          },
+          "specimen_stylesheet.css": {
+            "type": "-",
+            "size": 7310,
+            "lmtime": 1571668782000,
+            "modified": false
+          }
+        },
+        "basscrw-font": {
+          "basscrw-demo.html": {
+            "type": "-",
+            "size": 30669,
+            "lmtime": 1571668782000,
+            "modified": false
+          },
+          "basscrw-webfont.woff": {
+            "type": "-",
+            "size": 26220,
+            "lmtime": 1571668782000,
+            "modified": false
+          },
+          "basscrw-webfont.woff2": {
+            "type": "-",
+            "size": 21292,
+            "lmtime": 1571668782000,
+            "modified": false
+          },
+          "generator_config.txt": {
+            "type": "-",
+            "size": 608,
+            "lmtime": 1571668782000,
+            "modified": false
+          },
+          "specimen_files": {
+            "grid_12-825-55-15.css": {
+              "type": "-",
+              "size": 4597,
+              "lmtime": 1571668782000,
+              "modified": false
+            },
+            "specimen_stylesheet.css": {
+              "type": "-",
+              "size": 7310,
+              "lmtime": 1571668782000,
+              "modified": false
+            }
+          },
+          "stylesheet.css": {
+            "type": "-",
+            "size": 295,
+            "lmtime": 1571729359506,
+            "modified": false
+          }
+        }
+      },
+      "img": {
+        "LV_logo(2).png": {
+          "type": "-",
+          "size": 8107,
+          "lmtime": 0,
+          "modified": false
+        },
+        "LV_logo.png": {
+          "type": "-",
+          "size": 8107,
+          "lmtime": 1571689584083,
+          "modified": false
+        },
+        "avataaars.svg": {
+          "type": "-",
+          "size": 12807,
+          "lmtime": 0,
+          "modified": false
+        },
+        "favicon(2).png": {
+          "type": "-",
+          "size": 1795,
+          "lmtime": 1571744562073,
+          "modified": false
+        },
+        "infografica.png": {
+          "type": "-",
+          "size": 101747,
+          "lmtime": 1571748297134,
+          "modified": false
+        },
+        "portfolio": {
+          "assistenza_in_remoto.ai": {
+            "type": "-",
+            "size": 315777,
+            "lmtime": 1571746718501,
+            "modified": false
+          },
+          "assistenza_in_remoto.png": {
+            "type": "-",
+            "size": 86930,
+            "lmtime": 1571746727222,
+            "modified": false
+          },
+          "assistenza_in_remoto.png.tmp$$": {
+            "type": "-",
+            "size": 0,
+            "lmtime": 1571746726654,
+            "modified": false
+          },
+          "cabin.png": {
+            "type": "-",
+            "size": 36514,
+            "lmtime": 0,
+            "modified": false
+          },
+          "cake.png": {
+            "type": "-",
+            "size": 17068,
+            "lmtime": 0,
+            "modified": false
+          },
+          "circus.png": {
+            "type": "-",
+            "size": 27984,
+            "lmtime": 0,
+            "modified": false
+          },
+          "creazione_locandine.ai": {
+            "type": "-",
+            "size": 3707988,
+            "lmtime": 1571745638315,
+            "modified": false
+          },
+          "creazione_locandine.png": {
+            "type": "-",
+            "size": 145073,
+            "lmtime": 1571745953932,
+            "modified": false
+          },
+          "creazione_locandine.png.tmp$$": {
+            "type": "-",
+            "size": 0,
+            "lmtime": 1571745952918,
+            "modified": false
+          },
+          "creazione_locandine1.ai": {
+            "type": "-",
+            "size": 3762331,
+            "lmtime": 1571753857827,
+            "modified": false
+          },
+          "creazione_logo.ai": {
+            "type": "-",
+            "size": 3708452,
+            "lmtime": 1571745352579,
+            "modified": false
+          },
+          "creazione_logo.png": {
+            "type": "-",
+            "size": 145541,
+            "lmtime": 1571745314389,
+            "modified": false
+          },
+          "creazione_sticker_gif.ai": {
+            "type": "-",
+            "size": 4315319,
+            "lmtime": 1571754146694,
+            "modified": false
+          },
+          "creazione_sticker_gif.png.tmp$$": {
+            "type": "-",
+            "size": 0,
+            "lmtime": 1571754152944,
+            "modified": false
+          },
+          "game.png": {
+            "type": "-",
+            "size": 25896,
+            "lmtime": 0,
+            "modified": false
+          },
+          "safe.png": {
+            "type": "-",
+            "size": 19240,
+            "lmtime": 0,
+            "modified": false
+          },
+          "social(1).png": {
+            "type": "-",
+            "size": 123649,
+            "lmtime": 1571746297711,
+            "modified": false
+          },
+          "social(1).png.tmp$$": {
+            "type": "-",
+            "size": 0,
+            "lmtime": 1571746297015,
+            "modified": false
+          },
+          "social.ai": {
+            "type": "-",
+            "size": 2400620,
+            "lmtime": 1571740585599,
+            "modified": false
+          },
+          "social.png": {
+            "type": "-",
+            "size": 122108,
+            "lmtime": 1571739067979,
+            "modified": false
+          },
+          "social.png.tmp$$": {
+            "type": "-",
+            "size": 82,
+            "lmtime": 1571739052027,
+            "modified": true
+          },
+          "submarine.png": {
+            "type": "-",
+            "size": 24330,
+            "lmtime": 0,
+            "modified": false
+          },
+          "web_designer.ai": {
+            "type": "-",
+            "size": 3580735,
+            "lmtime": 1571739907797,
+            "modified": false
+          },
+          "web_designer.png": {
+            "type": "-",
+            "size": 134022,
+            "lmtime": 1571739929007,
+            "modified": false
+          },
+          "web_designer.png.tmp$$": {
+            "type": "-",
+            "size": 0,
+            "lmtime": 1571739928133,
+            "modified": false
+          },
+          "creazione_sticker_gif.png": {
+            "type": "-",
+            "size": 494027,
+            "lmtime": 1571754156837,
+            "modified": false
+          }
+        }
+      },
+      "index.php": {
+        "type": "-",
+        "size": 26442,
+        "lmtime": 1571756353402,
+        "modified": false
+      },
+      "js": {
+        "contact_me.js": {
+          "type": "-",
+          "size": 2868,
+          "lmtime": 1571750597039,
+          "modified": false
+        },
+        "contact_me.min.js": {
+          "type": "-",
+          "size": 1663,
+          "lmtime": 1571750491886,
+          "modified": false
+        },
+        "freelancer.js": {
+          "type": "-",
+          "size": 2046,
+          "lmtime": 0,
+          "modified": false
+        },
+        "freelancer.min.js": {
+          "type": "-",
+          "size": 1425,
+          "lmtime": 0,
+          "modified": false
+        },
+        "jqBootstrapValidation.js": {
+          "type": "-",
+          "size": 36205,
+          "lmtime": 1571749308901,
+          "modified": false
+        },
+        "jqBootstrapValidation.min.js": {
+          "type": "-",
+          "size": 15165,
+          "lmtime": 1571749331493,
+          "modified": false
+        }
+      },
+      "mail": {
+        "contact_me.php": {
+          "type": "-",
+          "size": 1160,
+          "lmtime": 1571750714106,
+          "modified": false
+        }
+      },
+      "scss": {
+        "base": {
+          "_page.scss": {
+            "type": "-",
+            "size": 268,
+            "lmtime": 1568669322000,
+            "modified": false
+          },
+          "_variables.scss": {
+            "type": "-",
+            "size": 1128,
+            "lmtime": 1568669322000,
+            "modified": false
+          }
+        },
+        "components": {
+          "_buttons.scss": {
+            "type": "-",
+            "size": 521,
+            "lmtime": 1568669322000,
+            "modified": false
+          },
+          "_divider.scss": {
+            "type": "-",
+            "size": 686,
+            "lmtime": 1568669322000,
+            "modified": false
+          }
+        },
+        "freelancer.scss": {
+          "type": "-",
+          "size": 473,
+          "lmtime": 1568669322000,
+          "modified": false
+        },
+        "layout": {
+          "_contact.scss": {
+            "type": "-",
+            "size": 1160,
+            "lmtime": 1568669322000,
+            "modified": false
+          },
+          "_footer.scss": {
+            "type": "-",
+            "size": 167,
+            "lmtime": 1568669322000,
+            "modified": false
+          },
+          "_masthead.scss": {
+            "type": "-",
+            "size": 502,
+            "lmtime": 1568669322000,
+            "modified": false
+          },
+          "_navbar.scss": {
+            "type": "-",
+            "size": 1205,
+            "lmtime": 1568669322000,
+            "modified": false
+          },
+          "_portfolio.scss": {
+            "type": "-",
+            "size": 987,
+            "lmtime": 1568669322000,
+            "modified": false
+          }
+        }
+      },
+      "vendor": {}
+    }
+  },
+  "$version": 1
+}

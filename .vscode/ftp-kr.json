@@ -1,0 +1,16 @@
+{
+    "host": "ftp.britta.altervista.org",
+    "username": "britta",
+    "password": "ilmegliodj",
+    "remotePath": "/SITO_MIO/",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
